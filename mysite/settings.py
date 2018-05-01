@@ -25,7 +25,7 @@ SECRET_KEY = '%xt952((&nauvd$76l+^-@kt7oq#)!8-f2_v+*2kl(f#s97(56'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'stone.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'juniorstone.pythonanywhere.com']
 
 
 # Application definition
